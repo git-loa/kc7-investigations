@@ -1,2 +1,130 @@
-# kc7-investigations
-This repository contains my hands-on investigations completed through the KC7 cyber threat intelligence platform. It includes my badges, certificates, and a full case study of the Valdoria Voting Machines investigation. The goal of this repo is to demonstrate practical skills in KQL, log analysis, threat investigation, and CTI reporting.
+
+# KC7 Cyber Threat Intelligence Investigations
+
+This repository contains my completed investigations, badges, certificates, and KQL queries from the KC7 Cyber Threat Intelligence platform.  
+It serves as a structured portfolio demonstrating skills in:
+
+- Threat investigation  
+- Log analysis  
+- KQL query development  
+- Network and authentication telemetry analysis  
+- Passive DNS pivoting  
+- CTI frameworks (MITRE ATT&CK, Diamond Model)  
+- Reporting and documentation  
+
+All investigations are fully documented, with supporting KQL queries and earned badges included.
+
+---
+
+## Repository Structure
+```
+kc7-investigations/
+│
+├── investigations/                     # Each investigation in its own folder
+│   ├── valdoria-voting-machines/
+│   │   ├── valdoria-voting-machines-report.md
+│   │   └── valdoria-voting-machines-kql.md
+│   ├── encryptodera-insider-ransomware/
+│   │   ├── encryptodera-insider-ransomware-report.md
+│   │   └── encryptodera-insider-ransomware-kql.md
+│   └── ... future investigations ...
+│
+├── badges/                             # Investigation and streak badges
+│   ├── investigations/
+│   └── streaks/
+│
+└── certificates/                       # KC7 certificates earned
+```
+
+---
+
+## Completed Investigations
+
+<div style="display: inline-block; padding: 5px;">
+  <a href="investigations/valdoria-voting-machines/valdoria-voting-machines-report.md">
+    <img src="badges/investigations/kc7-valdoria-votes.png" width="90"><br/>valdoria-voting-machines
+  </a>
+</div>
+
+<div style="display: inline-block; padding: 5px;">
+  <a href="investigations/encryptodera-insider-ransomware/encryptodera-insider-ransomware-report.md">
+    <img src="badges/investigations/kc7-inside-encryptodera.png" width="90"><br/>encryptodera-insider-ransomware
+  </a>
+</div>
+
+---
+
+## KQL Index
+
+- [Valdoria Voting Machines KQL](investigations/valdoria-voting-machines/valdoria-voting-machines-kql.md)
+- [Encryptodera Insider Ransomware KQL](investigations/encryptodera-insider-ransomware/encryptodera-insider-ransomware-kql.md)
+
+<!-- Add new KQL links here as you complete more investigations -->
+
+---
+
+## Investigation Badges
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="badges/investigations/kc7-valdoria-votes.png" width="90">
+  <img src="badges/investigations/kc7-frognado-in-valdoria.png" width="90">
+  <img src="badges/investigations/kc7-jojo-s-hospital.png" width="90">
+  <img src="badges/investigations/kc7-solvi-systems.png" width="90">
+  <img src="badges/investigations/kc7-rap-beef.png" width="90">
+  <img src="badges/investigations/kc7-whiskermania.png" width="90">
+  <img src="badges/investigations/kc7-inside-encryptodera.png" width="90">
+  <!-- Add new investigation badges here -->
+</div>
+
+---
+
+## Streak Badges
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="badges/streaks/kc7-3-day-streak.png" width="90">
+  <img src="badges/streaks/kc7-7-total-days.png" width="90">
+  <img src="badges/streaks/kc7-10-day-streak.png" width="90">
+  <img src="badges/streaks/kc7-30-day-hot-steak.png" width="90">
+  <img src="badges/streaks/kc7-30-total-days.png" width="90">
+  <img src="badges/streaks/kc7-45-day-streak.png" width="90">
+  <!-- Add new streak badges here -->
+</div>
+
+---
+
+## Certificates
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="certificates/kc7-security-analyst-i.png" width="300">
+  <img src="certificates/kc7-security-analyst-ii.png" width="300">
+  <img src="certificates/kc7-virustotal-fundamentals.png" width="300">
+</div>
+
+---
+
+## KC7 Public Profile
+
+KC7 provides a public profile that tracks my investigations, streaks, and overall progress:
+
+https://kc7cyber.com/profile/lafeke-kc7
+
+---
+
+## Skills Demonstrated
+
+- KQL (Kusto Query Language)  
+- Threat investigation workflows  
+- Network telemetry analysis  
+- Authentication log analysis  
+- Passive DNS pivoting  
+- Phishing analysis  
+- Identity‑based intrusion analysis  
+- MITRE ATT&CK mapping  
+- Diamond Model application  
+- CTI reporting and documentation  
+
+---
+
+## Contact
+
+If you would like to discuss my KC7 work, CTI, detection engineering, or security analysis, feel free to reach out.
