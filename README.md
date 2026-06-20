@@ -40,16 +40,18 @@ kc7-investigations/
 
 ## Completed Investigations
 
-<div style="display: inline-block; padding: 5px;">
-  <a href="investigations/valdoria-voting-machines/valdoria-voting-machines-report.md">
-    <img src="badges/investigations/kc7-valdoria-votes.png" width="90"><br/>valdoria-voting-machines
-  </a>
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
 
-<div style="display: inline-block; padding: 5px;">
-  <a href="investigations/encryptodera-insider-ransomware/encryptodera-insider-ransomware-report.md">
-    <img src="badges/investigations/kc7-inside-encryptodera.png" width="90"><br/>encryptodera-insider-ransomware
+  <a href="investigations/valdoria-voting-machines/valdoria-voting-machines-report.md" style="text-align: center;">
+    <img src="badges/investigations/kc7-valdoria-votes.png" width="70"><br/>
+    valdoria-voting-machines
   </a>
+
+  <a href="investigations/encryptodera-insider-ransomware/encryptodera-insider-ransomware-report.md" style="text-align: center;">
+    <img src="badges/investigations/kc7-inside-encryptodera.png" width="70"><br/>
+    encryptodera-insider-ransomware
+  </a>
+
 </div>
 
 ---
@@ -65,39 +67,43 @@ kc7-investigations/
 
 ## Investigation Badges
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="badges/investigations/kc7-valdoria-votes.png" width="90">
-  <img src="badges/investigations/kc7-frognado-in-valdoria.png" width="90">
-  <img src="badges/investigations/kc7-jojo-s-hospital.png" width="90">
-  <img src="badges/investigations/kc7-solvi-systems.png" width="90">
-  <img src="badges/investigations/kc7-rap-beef.png" width="90">
-  <img src="badges/investigations/kc7-whiskermania.png" width="90">
-  <img src="badges/investigations/kc7-inside-encryptodera.png" width="90">
-  <!-- Add new investigation badges here -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+
+  <img src="badges/investigations/kc7-valdoria-votes.png" width="70">
+  <img src="badges/investigations/kc7-frognado-in-valdoria.png" width="70">
+  <img src="badges/investigations/kc7-jojo-s-hospital.png" width="70">
+  <img src="badges/investigations/kc7-solvi-systems.png" width="70">
+  <img src="badges/investigations/kc7-rap-beef.png" width="70">
+  <img src="badges/investigations/kc7-whiskermania.png" width="70">
+  <img src="badges/investigations/kc7-inside-encryptodera.png" width="70">
+
 </div>
 
 ---
 
 ## Streak Badges
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="badges/streaks/kc7-3-day-streak.png" width="90">
-  <img src="badges/streaks/kc7-7-total-days.png" width="90">
-  <img src="badges/streaks/kc7-10-day-streak.png" width="90">
-  <img src="badges/streaks/kc7-30-day-hot-steak.png" width="90">
-  <img src="badges/streaks/kc7-30-total-days.png" width="90">
-  <img src="badges/streaks/kc7-45-day-streak.png" width="90">
-  <!-- Add new streak badges here -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+
+  <img src="badges/streaks/kc7-3-day-streak.png" width="70">
+  <img src="badges/streaks/kc7-7-total-days.png" width="70">
+  <img src="badges/streaks/kc7-10-day-streak.png" width="70">
+  <img src="badges/streaks/kc7-30-day-hot-steak.png" width="70">
+  <img src="badges/streaks/kc7-30-total-days.png" width="70">
+  <img src="badges/streaks/kc7-45-day-streak.png" width="70">
+
 </div>
 
 ---
 
 ## Certificates
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+
   <img src="certificates/kc7-security-analyst-i.png" width="300">
   <img src="certificates/kc7-security-analyst-ii.png" width="300">
   <img src="certificates/kc7-virustotal-fundamentals.png" width="300">
+
 </div>
 
 ---
