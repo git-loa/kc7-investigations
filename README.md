@@ -39,20 +39,9 @@ kc7-investigations/
 ---
 
 ## Completed Investigations
+- [Valdoria Voting Machines](investigations/valdoria-voting-machines/valdoria-voting-machines-report.md)
+- [Encryptodera Insider Ransomware](investigations/encryptodera-insider-ransomware/encryptodera-insider-ransomware-report.md)
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-
-  <a href="investigations/valdoria-voting-machines/valdoria-voting-machines-report.md" style="text-align: center;">
-    <img src="badges/investigations/kc7-valdoria-votes.png" width="70"><br/>
-    valdoria-voting-machines
-  </a>
-
-  <a href="investigations/encryptodera-insider-ransomware/encryptodera-insider-ransomware-report.md" style="text-align: center;">
-    <img src="badges/investigations/kc7-inside-encryptodera.png" width="70"><br/>
-    encryptodera-insider-ransomware
-  </a>
-
-</div>
 
 ---
 
